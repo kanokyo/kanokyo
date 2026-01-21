@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hi 👋, I'm Kanokyo
+- 🎓 I'm a student in Japan.
+- 👨‍💻 Currently studying to become a Full-stack Engineer.
 
+## 🌱 Learning
+![](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,nextjs,py,pnpm,supabase,tailwind)
 
+## 🚀 Want to Learn
+![](https://skillicons.dev/icons?theme=dark&perline=7&i=bun,docker,gcp,go,nodejs,postgres)
 
-## Skills
-![](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,pnpm)
-
-## Activities
+## 🛠️ Activities
 ![](https://github-readme-stats.vercel.app/api?username=kanokyo&theme=vue-dark&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanokyo&theme=vue-dark&layout=compact)
 
