@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kanokyo}&theme={nord_bright})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox&utcOffset=9)
