@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanokyo&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanokyo&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanokyo&theme=nord_bright&utcOffset=9)
+
+![](https://github-readme-stats.vercel.app/api?username=kanokyo&theme=vue-dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanokyo&theme=vue-dark&layout=compact)
