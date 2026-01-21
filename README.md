@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kanokyo}&theme={nord_bright})
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kanokyo}&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanokyo&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanokyo&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanokyo&theme=nord_bright&utcOffset=9)
