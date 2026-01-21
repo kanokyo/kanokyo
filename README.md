@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+
+## Skills
+![](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,pnpm)
+
+## Activities
+![](https://github-readme-stats.vercel.app/api?username=kanokyo&theme=vue-dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanokyo&theme=vue-dark&layout=compact)
+
 <!--
 **kanokyo/kanokyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kanokyo}&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanokyo&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanokyo&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanokyo&theme=nord_bright&utcOffset=9)
-
-![](https://github-readme-stats.vercel.app/api?username=kanokyo&theme=vue-dark&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanokyo&theme=vue-dark&layout=compact)
