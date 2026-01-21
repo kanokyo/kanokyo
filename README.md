@@ -3,7 +3,6 @@
 - 👨‍💻 Currently studying to become a Full-stack Engineer.
 
 ## 🌱 Learning
-![](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,nextjs,py,pnpm,supabase,tailwind)
 
 ## 🚀 Want to Learn
 ![](https://skillicons.dev/icons?theme=dark&perline=7&i=bun,docker,gcp,go,nodejs,postgres)
