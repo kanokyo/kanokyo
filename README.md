@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Kanokyo
-- 🎓 I'm a student in Japan.
+- 🎓 I'm a Japanese university student.
 - 👨‍💻 Currently studying to become a Full-stack Engineer.
+- 🌅 I love going on staycations.
 
 ## 🌱 Learning
 ![](https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,nextjs,py,pnpm,supabase,tailwind)
